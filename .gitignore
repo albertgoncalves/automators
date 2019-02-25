@@ -1,0 +1,9 @@
+*
+!.gitignore
+!README.md
+!*.workflow
+!Contents
+!QuickLook
+!*.png
+!*.plist
+!*.wflow
